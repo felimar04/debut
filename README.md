@@ -11,10 +11,9 @@ je suis **MARTIN Matthieu**, Je suis un **Développeur Fullstack**.
 </p>
 
 ### pour me contacter 
-<p align="center">
+<p align="center" style = "color black">
   <a href="https://twitter.com/felimar04"><img alt="Twitter" title="Twitter" height="48" width="48" src="icon/twitter_logo.png"></a>
   <a href="https://www.instagram.com/_felimar_/"><img alt="Instagram" title="Instagram" height="48" width="48" src="icon/instagram_logo.png"></a>
-  <img alt="discord" title="discord" src="icon/discord_logo.png" height="48"><figcaption>Felimar#5070</figcaption>
 </p>
 
 <br><br>
