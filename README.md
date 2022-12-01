@@ -11,8 +11,8 @@ je suis **MARTIN Matthieu**, Je suis un **Développeur Fullstack**.
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieu&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-matthieu&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=matthieu&show_icons=true&hide_border=true&theme=dark)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=martin-matthieu&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=matthieu)](https://github.com/matthieu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=martin-matthieu)](https://github.com/martin-matthieu/github-profile-trophy)
