@@ -1,8 +1,6 @@
 
 ### 👋&nbsp;&nbsp;Salut!
 
-je m'appelle **MARTIN Matthieu**, Je suis un **Développeur Fullstack**.
-<br><br>
 
 ### je travaille actuellement avec
 
